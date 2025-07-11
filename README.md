@@ -23,7 +23,7 @@ Este proyecto corresponde al caso práctico 1 del curso de Analista de Datos Jun
 ## 🔗 Accesos a datos (Google Drive)
 
 - [📂 Ver archivos originales (CSV)](https://drive.google.com/drive/folders/1hksXg70p2ExHgiIe3SrWpj5t3M1Ki1r5?usp=drive_link)
-- [📂 Ver archivos limpios](https://drive.google.com/...)  
+- [📂 Ver archivos limpios](https://drive.google.com/drive/folders/1Q4OKkMnK81SICROwbLCUeVoJOXjFObSh?usp=drive_link)  
 - [📂 Ver archivo consolidado](https://drive.google.com/...)  
 - [📂 Ver visualizaciones PNG](https://drive.google.com/...)  
 - [📂 Ver documentación en Word](https://drive.google.com/...)  
