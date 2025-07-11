@@ -1,8 +1,12 @@
-## Archivos originales
+# 📂 Datos originales
 
-Los archivos originales (.csv) correspondientes a los 12 meses se encuentran disponibles para su descarga en el siguiente enlace de Google Drive:
+Esta carpeta contiene los archivos originales descargados desde el portal de datos de Cyclistic:
 
-🔗 [Acceder a datos originales]https://drive.google.com/drive/folders/1hksXg70p2ExHgiIe3SrWpj5t3M1Ki1r5?usp=drive_link
+🔗 https://drive.google.com/drive/folders/1hksXg70p2ExHgiIe3SrWpj5t3M1Ki1r5?usp=drive_link
 
-Nota: Los archivos fueron descargados directamente desde el portal oficial de Divvy Bikes (https://divvybikes.com/system-data).
+- Archivos en formato `.csv`, sin ningún tipo de procesamiento.
+- Corresponden a los últimos 12 meses de actividad del sistema de bicicletas compartidas Cyclistic.
+- Proporcionados por **Motivate International Inc.**
+- Licencia de uso: [Divvy Data License](https://divvybikes.com/data-license-agreement)
 
+⚠️ Por limitaciones de tamaño de archivo en GitHub, los datos están alojados en Google Drive.
